@@ -103,6 +103,7 @@ public class 클래스배열1_알고리즘_과목1 {
 							}
 						}
 					}
+					
 					subList[i].rank = rank;		
 				}
 				
