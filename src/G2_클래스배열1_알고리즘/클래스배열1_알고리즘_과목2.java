@@ -67,6 +67,7 @@ public class 클래스배열1_알고리즘_과목2 {
 		}
 		
 		System.out.println("----------------------");
+		
 		String[] to = subjectSample.split("\n");
 		subSize = to.length;
 		subList = new Subject[subSize];
