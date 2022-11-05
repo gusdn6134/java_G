@@ -46,8 +46,6 @@ public class 클래스배열1_알고리즘_과목2 {
 		stSize = token.length;
 		stList = new Student[stSize];
 		
-		
-		
 		for(int i = 0; i < stSize; i++)
 		{
 			stList[i] = new Student();
@@ -91,7 +89,6 @@ public class 클래스배열1_알고리즘_과목2 {
 			System.out.print(subList[i].score + " ");
 			System.out.println(subList[i].rank);
 		}
-		
 		
 		
 	}
